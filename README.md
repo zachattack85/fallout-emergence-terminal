@@ -7,6 +7,12 @@ This project demonstrates structured application design, modular functions, inpu
 
 ---
 
+## Screenshot
+
+![Fallout Emergence Screenshot](screenshot.png)
+
+---
+
 ## Features
 
 - Branching narrative decisions
