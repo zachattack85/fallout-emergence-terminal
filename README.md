@@ -9,7 +9,7 @@ This project demonstrates structured application design, modular functions, inpu
 
 ## Screenshot
 
-!<p align="center">
+<p align="center">
   <img src="screenshot.png" width="650">
 </p>
 
